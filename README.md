@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Arun Dharwad 👋
 
-<!--
-**arundharwad-26/arundharwad-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | Full Stack Developer | Python Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 MCA Student at Nitte Meenakshi Institute of Technology (NMIT), Bengaluru
+* 💻 Passionate about Full Stack Development and Software Engineering
+* 🐍 Skilled in Python, FastAPI, Django, React.js, SQL
+* 🌱 Currently exploring System Design and Scalable Web Applications
+* 🎯 Looking for Software Engineer, Full Stack Developer, and Python Developer opportunities
+
+## Tech Stack
+
+### Languages
+
+Python | SQL | JavaScript
+
+### Frontend
+
+React.js | HTML | CSS
+
+### Backend
+
+FastAPI | Django | REST APIs
+
+### Database
+
+MySQL | MongoDB | SQLite
+
+### Tools
+
+Git | GitHub | Docker | AWS
+
+## Featured Projects
+
+### Job Skill Demand Forecasting & Career Intelligence Platform
+
+* Full Stack Analytics Platform
+* React.js + FastAPI
+* ML Forecasting using Prophet
+* Skill Gap Analysis
+
+### Brain Stroke & Cardiac Arrest Prediction System
+
+* KSCST Sponsored Project
+* Machine Learning Based Prediction System
+* FastAPI Deployment
+* 92.27% Model Accuracy
+
+## Connect With Me
+
+📧 Email: [arundharwad26@gmail.com](mailto:arundharwad26@gmail.com)
+
+🔗 LinkedIn: linkedin.com/in/arun-dharwad
+
+🐙 GitHub: github.com/arundharwad-26
+
+---
+
+⭐ Always learning, building, and improving.
