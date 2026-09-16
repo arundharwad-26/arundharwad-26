@@ -1,6 +1,6 @@
 # Hi there, I'm Arun Dharwad 👋
 
-🚀 Data Engineer | AI/ML Systems Specialist | Python Developer
+🚀 Data Engineer | Full Stack Developer | AI/ML Systems Specialist | Python Developer
 
 ## About Me
 
@@ -15,7 +15,7 @@
 
 ### Languages
 
-Python | SQL | JavaScript
+Python | SQL | JavaScript | React.js
 
 ### Machine Learning
 
